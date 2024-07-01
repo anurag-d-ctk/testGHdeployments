@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1616143058,
+    "environment": "qa",
+    "ref": "master",
+    "sha": "423ccf8eccb70f1ec4365b4611836d60f7ec3026",
+    "created_at": "2024-06-29T04:43:26Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1614683733,
+    "environment": "dev",
+    "ref": "pre-release-bug-fixes-1",
+    "sha": "3d6b852244e388f208295c664a8f0c680a46bcfc",
+    "created_at": "2024-06-28T12:32:37Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1608429732,
+    "environment": "dev",
+    "ref": "master",
+    "sha": "882de4aaae6a247419110226e711c4097c81e776",
+    "created_at": "2024-06-26T07:46:49Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605830763,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "b1812f4f470fad7b6d4686ab68b87545fdcad458",
+    "created_at": "2024-06-25T09:45:09Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605822437,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "b1812f4f470fad7b6d4686ab68b87545fdcad458",
+    "created_at": "2024-06-25T09:41:42Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605735914,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "e1d8423dc2bef9004e5de1f39e577026fa45a39d",
+    "created_at": "2024-06-25T09:06:58Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605725804,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "c8100a2f019c8fba82d37cb986d53be5ef00b710",
+    "created_at": "2024-06-25T09:03:36Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605707589,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "9e8e9cc0a23f6f209845dfb1cc2432aa4ad82fb7",
+    "created_at": "2024-06-25T08:56:59Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605694649,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "ad428a101bdfaa7a47386b191fcaf602e1c12db9",
+    "created_at": "2024-06-25T08:51:32Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605682995,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "a94ea3cd23d5d3c3f91a9f28563eaec63c0cbd64",
+    "created_at": "2024-06-25T08:46:36Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605663346,
+    "environment": "dev",
+    "ref": "npm-pnpm",
+    "sha": "3d07ebe6c527157f783977deccefef4c0792f421",
+    "created_at": "2024-06-25T08:38:19Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605307310,
+    "environment": "qa",
+    "ref": "dev",
+    "sha": "97cb3eb99da5a88adf4d30e0a42d8f9e72dfdf11",
+    "created_at": "2024-06-25T05:41:47Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605236342,
+    "environment": "prod",
+    "ref": "master",
+    "sha": "882de4aaae6a247419110226e711c4097c81e776",
+    "created_at": "2024-06-25T04:47:45Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605224083,
+    "environment": "qa",
+    "ref": "master",
+    "sha": "708566fe20372bbca631af07c78b34980d35775c",
+    "created_at": "2024-06-25T04:36:57Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605221167,
+    "environment": "qa",
+    "ref": "master",
+    "sha": "708566fe20372bbca631af07c78b34980d35775c",
+    "created_at": "2024-06-25T04:34:37Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1605220046,
+    "environment": "prod",
+    "ref": "master",
+    "sha": "708566fe20372bbca631af07c78b34980d35775c",
+    "created_at": "2024-06-25T04:33:48Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603992317,
+    "environment": "prod",
+    "ref": "master",
+    "sha": "918ad6b42561e29764839dbbf460f752326346ac",
+    "created_at": "2024-06-24T16:15:00Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603990688,
+    "environment": "dev",
+    "ref": "master",
+    "sha": "918ad6b42561e29764839dbbf460f752326346ac",
+    "created_at": "2024-06-24T16:14:19Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603984800,
+    "environment": "prod",
+    "ref": "master",
+    "sha": "918ad6b42561e29764839dbbf460f752326346ac",
+    "created_at": "2024-06-24T16:11:53Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603226164,
+    "environment": "dev",
+    "ref": "error-401-fix",
+    "sha": "32b63ab026cfd83c4de88dfa51f68d06f93a6515",
+    "created_at": "2024-06-24T11:34:25Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603213149,
+    "environment": "dev",
+    "ref": "error-401-fix",
+    "sha": "6fe25f2e4c43b59a161ddb6be826c08e1b398e43",
+    "created_at": "2024-06-24T11:28:33Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603208217,
+    "environment": "qa",
+    "ref": "dev",
+    "sha": "243adc09d02185743c9c021b6e1040b223d36915",
+    "created_at": "2024-06-24T11:26:08Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603163312,
+    "environment": "dev",
+    "ref": "error-401-fix",
+    "sha": "b5f76ee80d8faba09f7637a405a998e50f4a8204",
+    "created_at": "2024-06-24T11:07:07Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603140202,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "bc83a860cd014f68be67e437b378e2880ca60292",
+    "created_at": "2024-06-24T10:57:57Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603109316,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "780ede039b53b05ad0a9a53df45e20dd88f4a7ef",
+    "created_at": "2024-06-24T10:43:14Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603067074,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "e385b3ca5d1374ecc9de94e269dd4939c8b0b541",
+    "created_at": "2024-06-24T10:23:45Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1603049621,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "e385b3ca5d1374ecc9de94e269dd4939c8b0b541",
+    "created_at": "2024-06-24T10:15:34Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1603043498,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "e385b3ca5d1374ecc9de94e269dd4939c8b0b541",
+    "created_at": "2024-06-24T10:12:57Z",
+    "creator": "ArnavWee"
+  },
+  {
+    "id": 1602981275,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "e385b3ca5d1374ecc9de94e269dd4939c8b0b541",
+    "created_at": "2024-06-24T09:46:31Z",
+    "creator": "anurag-d-ctk"
+  },
+  {
+    "id": 1602966452,
+    "environment": "dev",
+    "ref": "hotjar-prod-only",
+    "sha": "e385b3ca5d1374ecc9de94e269dd4939c8b0b541",
+    "created_at": "2024-06-24T09:40:07Z",
+    "creator": "anurag-d-ctk"
+  }
+]
