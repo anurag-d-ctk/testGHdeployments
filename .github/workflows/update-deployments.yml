@@ -5,6 +5,9 @@ on:
     - cron: '*/5 * * * *'  # Runs every 2 minutes
   workflow_dispatch:  # Allows manual triggering
 
+permissions:
+  contents: write  # This line grants write permission to the workflow
+
 jobs:
   update-deployments:
     runs-on: ubuntu-latest
